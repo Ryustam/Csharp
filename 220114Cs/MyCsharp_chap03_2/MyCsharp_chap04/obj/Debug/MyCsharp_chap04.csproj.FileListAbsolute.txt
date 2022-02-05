@@ -1,0 +1,8 @@
+C:\Users\Ryustam\Desktop\C샵\220114Cs\MyCsharp_chap03_2\MyCsharp_chap04\bin\Debug\MyCsharp_chap04.exe.config
+C:\Users\Ryustam\Desktop\C샵\220114Cs\MyCsharp_chap03_2\MyCsharp_chap04\bin\Debug\MyCsharp_chap04.exe
+C:\Users\Ryustam\Desktop\C샵\220114Cs\MyCsharp_chap03_2\MyCsharp_chap04\bin\Debug\MyCsharp_chap04.pdb
+C:\Users\Ryustam\Desktop\C샵\220114Cs\MyCsharp_chap03_2\MyCsharp_chap04\obj\Debug\MyCsharp_chap04.csproj.AssemblyReference.cache
+C:\Users\Ryustam\Desktop\C샵\220114Cs\MyCsharp_chap03_2\MyCsharp_chap04\obj\Debug\MyCsharp_chap04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryustam\Desktop\C샵\220114Cs\MyCsharp_chap03_2\MyCsharp_chap04\obj\Debug\MyCsharp_chap04.csproj.CoreCompileInputs.cache
+C:\Users\Ryustam\Desktop\C샵\220114Cs\MyCsharp_chap03_2\MyCsharp_chap04\obj\Debug\MyCsharp_chap04.exe
+C:\Users\Ryustam\Desktop\C샵\220114Cs\MyCsharp_chap03_2\MyCsharp_chap04\obj\Debug\MyCsharp_chap04.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_loginform\bin\Debug\WindowsFormsApp_loginform.exe.config
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_loginform\bin\Debug\WindowsFormsApp_loginform.exe
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_loginform\bin\Debug\WindowsFormsApp_loginform.pdb
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_loginform\obj\Debug\WindowsFormsApp_loginform.csproj.AssemblyReference.cache
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_loginform\obj\Debug\WindowsFormsApp_loginform.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_loginform\obj\Debug\WindowsFormsApp_loginform.Form1.resources
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_loginform\obj\Debug\WindowsFormsApp_loginform.Properties.Resources.resources
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_loginform\obj\Debug\WindowsFormsApp_loginform.csproj.GenerateResource.cache
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_loginform\obj\Debug\WindowsFormsApp_loginform.csproj.CoreCompileInputs.cache
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_loginform\obj\Debug\WindowsFormsApp_loginform.exe
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_loginform\obj\Debug\WindowsFormsApp_loginform.pdb

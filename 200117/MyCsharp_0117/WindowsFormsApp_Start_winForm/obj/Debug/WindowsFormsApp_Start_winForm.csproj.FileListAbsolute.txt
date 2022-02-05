@@ -1,0 +1,11 @@
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_Start_winForm\obj\Debug\WindowsFormsApp_Start_winForm.csproj.AssemblyReference.cache
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_Start_winForm\obj\Debug\WindowsFormsApp_Start_winForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_Start_winForm\obj\Debug\WindowsFormsApp_Start_winForm.Form1.resources
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_Start_winForm\obj\Debug\WindowsFormsApp_Start_winForm.Properties.Resources.resources
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_Start_winForm\obj\Debug\WindowsFormsApp_Start_winForm.csproj.GenerateResource.cache
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_Start_winForm\obj\Debug\WindowsFormsApp_Start_winForm.csproj.CoreCompileInputs.cache
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_Start_winForm\bin\Debug\WindowsFormsApp_Start_winForm.exe.config
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_Start_winForm\bin\Debug\WindowsFormsApp_Start_winForm.exe
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_Start_winForm\bin\Debug\WindowsFormsApp_Start_winForm.pdb
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_Start_winForm\obj\Debug\WindowsFormsApp_Start_winForm.exe
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_Start_winForm\obj\Debug\WindowsFormsApp_Start_winForm.pdb

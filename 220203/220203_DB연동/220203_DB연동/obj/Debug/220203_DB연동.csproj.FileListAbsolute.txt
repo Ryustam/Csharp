@@ -1,0 +1,11 @@
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\220203_DB연동\bin\Debug\220203_DB연동.exe.config
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\220203_DB연동\bin\Debug\220203_DB연동.exe
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\220203_DB연동\bin\Debug\220203_DB연동.pdb
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\220203_DB연동\obj\Debug\220203_DB연동.csproj.AssemblyReference.cache
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\220203_DB연동\obj\Debug\220203_DB연동.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\220203_DB연동\obj\Debug\_220203_DB연동.Form1.resources
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\220203_DB연동\obj\Debug\_220203_DB연동.Properties.Resources.resources
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\220203_DB연동\obj\Debug\220203_DB연동.csproj.GenerateResource.cache
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\220203_DB연동\obj\Debug\220203_DB연동.csproj.CoreCompileInputs.cache
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\220203_DB연동\obj\Debug\220203_DB연동.exe
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\220203_DB연동\obj\Debug\220203_DB연동.pdb

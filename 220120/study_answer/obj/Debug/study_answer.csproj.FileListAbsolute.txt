@@ -1,0 +1,12 @@
+C:\Users\Ryustam\Desktop\C샵\220120\study_answer\bin\Debug\study_answer.exe.config
+C:\Users\Ryustam\Desktop\C샵\220120\study_answer\bin\Debug\study_answer.exe
+C:\Users\Ryustam\Desktop\C샵\220120\study_answer\bin\Debug\study_answer.pdb
+C:\Users\Ryustam\Desktop\C샵\220120\study_answer\obj\Debug\study_answer.csproj.AssemblyReference.cache
+C:\Users\Ryustam\Desktop\C샵\220120\study_answer\obj\Debug\study_answer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryustam\Desktop\C샵\220120\study_answer\obj\Debug\study_answer.Form1.resources
+C:\Users\Ryustam\Desktop\C샵\220120\study_answer\obj\Debug\study_answer.Properties.Resources.resources
+C:\Users\Ryustam\Desktop\C샵\220120\study_answer\obj\Debug\study_answer.csproj.GenerateResource.cache
+C:\Users\Ryustam\Desktop\C샵\220120\study_answer\obj\Debug\study_answer.csproj.CoreCompileInputs.cache
+C:\Users\Ryustam\Desktop\C샵\220120\study_answer\obj\Debug\study_answer.exe
+C:\Users\Ryustam\Desktop\C샵\220120\study_answer\obj\Debug\study_answer.pdb
+C:\Users\Ryustam\Desktop\C샵\220120\study_answer\obj\Debug\study_answer.Form2.resources

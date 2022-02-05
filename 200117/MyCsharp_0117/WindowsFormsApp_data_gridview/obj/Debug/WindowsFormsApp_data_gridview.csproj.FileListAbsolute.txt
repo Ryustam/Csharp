@@ -1,0 +1,15 @@
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_data_gridview\bin\Debug\WindowsFormsApp_data_gridview.exe.config
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_data_gridview\bin\Debug\WindowsFormsApp_data_gridview.exe
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_data_gridview\bin\Debug\WindowsFormsApp_data_gridview.pdb
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_data_gridview\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_data_gridview\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_data_gridview\obj\Debug\WindowsFormsApp_data_gridview.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_data_gridview\obj\Debug\WindowsFormsApp_data_gridview.Form1.resources
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_data_gridview\obj\Debug\WindowsFormsApp_data_gridview.Properties.Resources.resources
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_data_gridview\obj\Debug\WindowsFormsApp_data_gridview.csproj.GenerateResource.cache
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_data_gridview\obj\Debug\WindowsFormsApp_data_gridview.csproj.CoreCompileInputs.cache
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_data_gridview\obj\Debug\WindowsFormsApp_data_gridview.csproj.CopyComplete
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_data_gridview\obj\Debug\WindowsFormsApp_data_gridview.exe
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_data_gridview\obj\Debug\WindowsFormsApp_data_gridview.pdb
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_data_gridview\obj\Debug\WindowsFormsApp_data_gridview.csproj.AssemblyReference.cache
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\WindowsFormsApp_data_gridview\obj\Debug\WindowsFormsApp_data_gridview.Form2.resources

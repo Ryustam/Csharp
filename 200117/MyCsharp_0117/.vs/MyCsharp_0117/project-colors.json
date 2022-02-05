@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fcc55a27-5979-460a-8418-7c84bf0597ac": {
+      "ProjectGuid": "fcc55a27-5979-460a-8418-7c84bf0597ac",
+      "DisplayName": "MyCsharp_0117",
+      "ColorIndex": 0
+    },
+    "bc5f059c-e75e-4e37-a908-31976f91c929": {
+      "ProjectGuid": "bc5f059c-e75e-4e37-a908-31976f91c929",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 1
+    },
+    "f998b4e8-b4a6-4835-8e19-9a6fcb21cc57": {
+      "ProjectGuid": "f998b4e8-b4a6-4835-8e19-9a6fcb21cc57",
+      "DisplayName": "review",
+      "ColorIndex": 2
+    },
+    "608e015a-5fea-4545-8f07-9e944d4c8675": {
+      "ProjectGuid": "608e015a-5fea-4545-8f07-9e944d4c8675",
+      "DisplayName": "WindowsFormsApp_loginform",
+      "ColorIndex": 3
+    },
+    "e6ce7030-d3be-4e1f-9c66-07e08234637d": {
+      "ProjectGuid": "e6ce7030-d3be-4e1f-9c66-07e08234637d",
+      "DisplayName": "MyLastConsoleProject",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "0b5886d5-0425-48b0-abbd-2c7290bfa12a": {
+      "ProjectGuid": "0b5886d5-0425-48b0-abbd-2c7290bfa12a",
+      "DisplayName": "WindowsFormsApp_Start_winForm",
+      "ColorIndex": 5
+    },
+    "1b6ce77e-1d09-412c-b427-7c3109cf3a93": {
+      "ProjectGuid": "1b6ce77e-1d09-412c-b427-7c3109cf3a93",
+      "DisplayName": "WindowsFormsApp_practice",
+      "ColorIndex": 6
+    },
+    "dfbf6870-bcac-4516-b778-99d49ccbb3aa": {
+      "ProjectGuid": "dfbf6870-bcac-4516-b778-99d49ccbb3aa",
+      "DisplayName": "study_answer",
+      "ColorIndex": 7
+    },
+    "4d71cfcf-0342-4635-b7c6-87edd0179960": {
+      "ProjectGuid": "4d71cfcf-0342-4635-b7c6-87edd0179960",
+      "DisplayName": "WindowsFormsApp_data_gridview",
+      "ColorIndex": 8
+    },
+    "f3c84982-18cf-489e-970a-9a9d04b0a6c9": {
+      "ProjectGuid": "f3c84982-18cf-489e-970a-9a9d04b0a6c9",
+      "DisplayName": "kakao_Map_API",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

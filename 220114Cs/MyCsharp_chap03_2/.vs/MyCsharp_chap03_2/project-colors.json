@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a474c422-c8b2-4fe2-a01a-27eaa14f596a": {
+      "ProjectGuid": "a474c422-c8b2-4fe2-a01a-27eaa14f596a",
+      "DisplayName": "MyCsharp_chap03_2",
+      "ColorIndex": 0
+    },
+    "e43a3087-9ef6-4e2b-b6a0-640765483150": {
+      "ProjectGuid": "e43a3087-9ef6-4e2b-b6a0-640765483150",
+      "DisplayName": "MyCsharp_chap03",
+      "ColorIndex": 1
+    },
+    "8b6bf324-1438-4c77-9fa7-e0d0d8c22489": {
+      "ProjectGuid": "8b6bf324-1438-4c77-9fa7-e0d0d8c22489",
+      "DisplayName": "MyCsharp_chap04",
+      "ColorIndex": 2
+    },
+    "5c373700-7052-4ff2-8ce2-cef1d28898ff": {
+      "ProjectGuid": "5c373700-7052-4ff2-8ce2-cef1d28898ff",
+      "DisplayName": "MyCsharp_form_practice",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

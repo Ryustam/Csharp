@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "19d57674-dd34-4815-85b3-926d90fd7ddf": {
+      "ProjectGuid": "19d57674-dd34-4815-85b3-926d90fd7ddf",
+      "DisplayName": "220203_DB연동",
+      "ColorIndex": 0
+    },
+    "5315f491-a4ca-4a1c-9524-2bb59d6338b8": {
+      "ProjectGuid": "5315f491-a4ca-4a1c-9524-2bb59d6338b8",
+      "DisplayName": "car",
+      "ColorIndex": 1
+    },
+    "6889e82f-9db8-4c6b-bda3-d901d417572d": {
+      "ProjectGuid": "6889e82f-9db8-4c6b-bda3-d901d417572d",
+      "DisplayName": "car_clone",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

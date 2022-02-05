@@ -1,0 +1,8 @@
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\MyLastConsoleProject\obj\Debug\MyLastConsoleProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\MyLastConsoleProject\obj\Debug\MyLastConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\MyLastConsoleProject\bin\Debug\MyLastConsoleProject.exe.config
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\MyLastConsoleProject\bin\Debug\MyLastConsoleProject.exe
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\MyLastConsoleProject\bin\Debug\MyLastConsoleProject.pdb
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\MyLastConsoleProject\obj\Debug\MyLastConsoleProject.exe
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\MyLastConsoleProject\obj\Debug\MyLastConsoleProject.pdb
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\MyLastConsoleProject\obj\Debug\MyLastConsoleProject.csproj.AssemblyReference.cache

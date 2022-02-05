@@ -1,0 +1,11 @@
+C:\Users\Ryustam\Desktop\C샵\220204\Study_Csharp_deep\Study_Csharp_deep\bin\Debug\Study_Csharp_deep.exe.config
+C:\Users\Ryustam\Desktop\C샵\220204\Study_Csharp_deep\Study_Csharp_deep\bin\Debug\Study_Csharp_deep.exe
+C:\Users\Ryustam\Desktop\C샵\220204\Study_Csharp_deep\Study_Csharp_deep\bin\Debug\Study_Csharp_deep.pdb
+C:\Users\Ryustam\Desktop\C샵\220204\Study_Csharp_deep\Study_Csharp_deep\obj\Debug\Study_Csharp_deep.csproj.AssemblyReference.cache
+C:\Users\Ryustam\Desktop\C샵\220204\Study_Csharp_deep\Study_Csharp_deep\obj\Debug\Study_Csharp_deep.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryustam\Desktop\C샵\220204\Study_Csharp_deep\Study_Csharp_deep\obj\Debug\Study_Csharp_deep.Form1.resources
+C:\Users\Ryustam\Desktop\C샵\220204\Study_Csharp_deep\Study_Csharp_deep\obj\Debug\Study_Csharp_deep.Properties.Resources.resources
+C:\Users\Ryustam\Desktop\C샵\220204\Study_Csharp_deep\Study_Csharp_deep\obj\Debug\Study_Csharp_deep.csproj.GenerateResource.cache
+C:\Users\Ryustam\Desktop\C샵\220204\Study_Csharp_deep\Study_Csharp_deep\obj\Debug\Study_Csharp_deep.csproj.CoreCompileInputs.cache
+C:\Users\Ryustam\Desktop\C샵\220204\Study_Csharp_deep\Study_Csharp_deep\obj\Debug\Study_Csharp_deep.exe
+C:\Users\Ryustam\Desktop\C샵\220204\Study_Csharp_deep\Study_Csharp_deep\obj\Debug\Study_Csharp_deep.pdb

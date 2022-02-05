@@ -1,0 +1,49 @@
+create table login_info(
+ID varchar(20),
+PW varchar(20),
+name varchar(20)
+);
+
+
+create table product(
+name varchar(20),
+price int
+);
+
+create table rustam(
+p_name varchar(20),
+price int,
+number int
+);
+
+insert into product value('cpu1',150000);
+insert into product value('cpu2',200000);
+insert into product value('그래픽카드1',400000);
+insert into product value('그래픽카드2',250000);
+insert into product value('램1',40000);
+insert into product value('메인보드1',80000);
+insert into product value('메인보드2',70000);
+insert into product value('ssd1',82000);
+
+this.p_image1.Image = ((System.Drawing.Image)(resources.GetObject("p_image1.Image")));
+this.p_image1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+
+
+private void button2_Click(object sender, EventArgs e)
+        {
+            int number = int.Parse(p_number1.Text);
+
+            if (number!=0)
+            {
+                number--;
+            }
+            p_number1.Text = String.Format(number.ToString());
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int number = int.Parse(p_number1.Text);
+            number++;
+            p_number1.Text = String.Format(number.ToString());
+        }
+

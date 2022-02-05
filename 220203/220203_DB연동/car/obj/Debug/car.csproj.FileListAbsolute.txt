@@ -1,0 +1,11 @@
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\car\obj\Debug\car.csproj.AssemblyReference.cache
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\car\obj\Debug\car.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\car\obj\Debug\car.Form1.resources
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\car\obj\Debug\car.Properties.Resources.resources
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\car\obj\Debug\car.csproj.GenerateResource.cache
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\car\obj\Debug\car.csproj.CoreCompileInputs.cache
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\car\bin\Debug\car.exe.config
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\car\bin\Debug\car.exe
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\car\bin\Debug\car.pdb
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\car\obj\Debug\car.exe
+C:\Users\Ryustam\Desktop\C샵\220203\220203_DB연동\car\obj\Debug\car.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ryustam\Desktop\C샵\220113Cs\220113_HelloWinForm\bin\Debug\220113_HelloWinForm.exe.config
+C:\Users\Ryustam\Desktop\C샵\220113Cs\220113_HelloWinForm\bin\Debug\220113_HelloWinForm.exe
+C:\Users\Ryustam\Desktop\C샵\220113Cs\220113_HelloWinForm\bin\Debug\220113_HelloWinForm.pdb
+C:\Users\Ryustam\Desktop\C샵\220113Cs\220113_HelloWinForm\obj\Debug\220113_HelloWinForm.csproj.AssemblyReference.cache
+C:\Users\Ryustam\Desktop\C샵\220113Cs\220113_HelloWinForm\obj\Debug\220113_HelloWinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryustam\Desktop\C샵\220113Cs\220113_HelloWinForm\obj\Debug\_220113_HelloWinForm.Form1.resources
+C:\Users\Ryustam\Desktop\C샵\220113Cs\220113_HelloWinForm\obj\Debug\_220113_HelloWinForm.Properties.Resources.resources
+C:\Users\Ryustam\Desktop\C샵\220113Cs\220113_HelloWinForm\obj\Debug\220113_HelloWinForm.csproj.GenerateResource.cache
+C:\Users\Ryustam\Desktop\C샵\220113Cs\220113_HelloWinForm\obj\Debug\220113_HelloWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Ryustam\Desktop\C샵\220113Cs\220113_HelloWinForm\obj\Debug\220113_HelloWinForm.exe
+C:\Users\Ryustam\Desktop\C샵\220113Cs\220113_HelloWinForm\obj\Debug\220113_HelloWinForm.pdb

@@ -1,0 +1,8 @@
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\review\bin\Debug\review.exe.config
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\review\bin\Debug\review.exe
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\review\bin\Debug\review.pdb
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\review\obj\Debug\review.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\review\obj\Debug\review.csproj.CoreCompileInputs.cache
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\review\obj\Debug\review.exe
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\review\obj\Debug\review.pdb
+C:\Users\Ryustam\Desktop\C샵\200117\MyCsharp_0117\review\obj\Debug\review.csproj.AssemblyReference.cache
